@@ -3,7 +3,7 @@ Section: misc
 Priority: extra
 Maintainer: Denis Roio <jaromil@dyne.org>
 Build-Depends: debhelper (>= 7), autotools-dev, cdbs, libgtk2.0-dev, libnotify-dev
-Standards-Version: 3.9.1
+Standards-Version: 3.9.2
 Homepage: http://tomb.dyne.org
 
 Package: tomb
